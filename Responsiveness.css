@@ -1,0 +1,14 @@
+@media screen and (max-width: 1050px) {
+    .header {
+        margin: 70px 40px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .nav {
+        display: none;
+    }
+    .nav-bar {
+        display: block;
+    }
+}
